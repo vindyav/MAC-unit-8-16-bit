@@ -1,0 +1,45 @@
+ 
+****************************************
+Report : hierarchy
+Design : mac_unit
+Version: V-2023.12-SP5-3
+Date   : Tue Nov  4 10:22:10 2025
+****************************************
+
+Attributes:
+    r - licensed design
+
+mac_unit           r
+    ad01d0           tsl18fs120_scl_ff
+    an02d0           tsl18fs120_scl_ff
+    aoi21d1          tsl18fs120_scl_ff
+    aoi22d1          tsl18fs120_scl_ff
+    aoi31d1          tsl18fs120_scl_ff
+    aoi221d1         tsl18fs120_scl_ff
+    aoim21d1         tsl18fs120_scl_ff
+    aoim22d1         tsl18fs120_scl_ff
+    aon211d1         tsl18fs120_scl_ff
+    aor22d1          tsl18fs120_scl_ff
+    buffd1           tsl18fs120_scl_ff
+    cg01d0           tsl18fs120_scl_ff
+    dfnrq1           tsl18fs120_scl_ff
+    inv0d0           tsl18fs120_scl_ff
+    inv0d1           tsl18fs120_scl_ff
+    inv0d2           tsl18fs120_scl_ff
+    nd02d0           tsl18fs120_scl_ff
+    nd02d1           tsl18fs120_scl_ff
+    nd03d0           tsl18fs120_scl_ff
+    nd03d1           tsl18fs120_scl_ff
+    nd12d0           tsl18fs120_scl_ff
+    nr02d0           tsl18fs120_scl_ff
+    nr02d1           tsl18fs120_scl_ff
+    nr03d0           tsl18fs120_scl_ff
+    nr03d1           tsl18fs120_scl_ff
+    nr13d1           tsl18fs120_scl_ff
+    oai21d1          tsl18fs120_scl_ff
+    oai22d1          tsl18fs120_scl_ff
+    oai211d1         tsl18fs120_scl_ff
+    oai222d1         tsl18fs120_scl_ff
+    oaim21d1         tsl18fs120_scl_ff
+    or02d0           tsl18fs120_scl_ff
+1

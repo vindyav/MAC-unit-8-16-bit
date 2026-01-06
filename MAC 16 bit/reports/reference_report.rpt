@@ -1,0 +1,88 @@
+ 
+****************************************
+Report : reference
+Design : mac_unit
+Version: V-2023.12-SP5-3
+Date   : Tue Nov  4 10:22:10 2025
+****************************************
+
+Attributes:
+    b - black box (unknown)
+   bo - allows boundary optimization
+    d - dont_touch
+   mo - map_only
+    h - hierarchical
+    n - noncombinational
+    r - removable
+    s - synthetic operator
+    u - contains unmapped logic
+
+Reference          Library       Unit Area   Count    Total Area   Attributes
+-----------------------------------------------------------------------------
+ad01d0             tsl18fs120_scl_ff
+                                 59.580002     140   8341.200256  r
+an02d0             tsl18fs120_scl_ff
+                                 15.680000       1     15.680000  
+aoi21d1            tsl18fs120_scl_ff
+                                 15.680000      26    407.680008  
+aoi22d1            tsl18fs120_scl_ff
+                                 18.820000     148   2785.359955  
+aoi31d1            tsl18fs120_scl_ff
+                                 18.820000       2     37.639999  
+aoi221d1           tsl18fs120_scl_ff
+                                 25.090000      91   2283.190014  
+aoim21d1           tsl18fs120_scl_ff
+                                 18.820000       3     56.459999  
+aoim22d1           tsl18fs120_scl_ff
+                                 21.950001      14    307.300011  
+aon211d1           tsl18fs120_scl_ff
+                                 18.820000      11    207.019997  
+aor22d1            tsl18fs120_scl_ff
+                                 25.090000      32    802.880005  
+buffd1             tsl18fs120_scl_ff
+                                 12.540000       1     12.540000  
+cg01d0             tsl18fs120_scl_ff
+                                 28.219999       7    197.539995  
+dfnrq1             tsl18fs120_scl_ff
+                                 59.580002      96   5719.680176  n
+inv0d0             tsl18fs120_scl_ff
+                                  6.270000      68    426.359999  
+inv0d1             tsl18fs120_scl_ff
+                                  9.410000      24    225.839996  
+inv0d2             tsl18fs120_scl_ff
+                                 12.540000       1     12.540000  
+nd02d0             tsl18fs120_scl_ff
+                                 12.540000      27    338.579999  
+nd02d1             tsl18fs120_scl_ff
+                                 12.540000       6     75.240000  
+nd03d0             tsl18fs120_scl_ff
+                                 15.680000       2     31.360001  
+nd03d1             tsl18fs120_scl_ff
+                                 15.680000       4     62.720001  
+nd12d0             tsl18fs120_scl_ff
+                                 15.680000       3     47.040001  
+nr02d0             tsl18fs120_scl_ff
+                                 12.540000       6     75.240000  
+nr02d1             tsl18fs120_scl_ff
+                                 12.540000      12    150.480000  
+nr03d0             tsl18fs120_scl_ff
+                                 15.680000       5     78.400002  
+nr03d1             tsl18fs120_scl_ff
+                                 15.680000       3     47.040001  
+nr13d1             tsl18fs120_scl_ff
+                                 21.950001       1     21.950001  
+oai21d1            tsl18fs120_scl_ff
+                                 15.680000      35    548.800011  
+oai22d1            tsl18fs120_scl_ff
+                                 18.820000      36    677.519989  
+oai211d1           tsl18fs120_scl_ff
+                                 18.820000       5     94.099998  
+oai222d1           tsl18fs120_scl_ff
+                                 28.219999       1     28.219999  
+oaim21d1           tsl18fs120_scl_ff
+                                 18.820000      33    621.059990  
+or02d0             tsl18fs120_scl_ff
+                                 15.680000       3     47.040001  
+-----------------------------------------------------------------------------
+Total 32 references                                 24783.700402
+1

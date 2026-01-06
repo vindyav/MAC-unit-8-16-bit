@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : mac_unit
+Version: V-2023.12-SP5-3
+Date   : Tue Nov  4 10:22:10 2025
+****************************************
+
+Library(s) Used:
+
+    tsl18fs120_scl_ff (File: /home/SynopsysInstalledTools/SCLPDK/scl_pdk/stdlib/fs120/liberty/lib_flow_ff/tsl18fs120_scl_ff.db)
+
+Number of ports:                          100
+Number of nets:                          1055
+Number of cells:                          847
+Number of combinational cells:            751
+Number of sequential cells:                96
+Number of macros/black boxes:               0
+Number of buf/inv:                         94
+Number of references:                      32
+
+Combinational area:              19064.020226
+Buf/Inv area:                      677.279995
+Noncombinational area:            5719.680176
+Macro/Black Box area:                0.000000
+Net Interconnect area:             788.029210
+
+Total cell area:                 24783.700402
+Total area:                      25571.729612
+1
